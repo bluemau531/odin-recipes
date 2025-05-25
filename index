@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Recipe Page -->
+    <title> Recipes </title>
+    <head> <h1> Odin Recipes </h1> </head>
+
+    <body> 
+        <a href="./recipes/enchiladas.html"> Enchilada Recipe </a>
+    </body>
+
+
+</html>
